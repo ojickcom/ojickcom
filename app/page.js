@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <div className={styles.description}>
-       테스트입니다.
+       테스트입니다. 반갑습니다.
       </div>
     </main>
   )
